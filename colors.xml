@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary">#2F7D6D</color>
+    <color name="primary_dark">#1F5A4E</color>
+    <color name="bg">#F4F7F5</color>
+    <color name="ink">#1E2B28</color>
+    <color name="muted">#6B7C77</color>
+    <color name="ok">#2E9E6B</color>
+    <color name="soft">#DDEFE9</color>
+</resources>
